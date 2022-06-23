@@ -1,6 +1,6 @@
-# AmebaAiNi
+# Ameba Play AiNi using TXT
 
-![Cover]()
+![Cover](https://scontent.fsin15-1.fna.fbcdn.net/v/t39.30808-6/289649271_1831959893666041_751678281649482315_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=zuPjCJC3tW0AX9hY1N_&_nc_ht=scontent.fsin15-1.fna&oh=00_AT92sEoEnd9bbqNEfmdUOF7uYNxA01-1FdrW8JEqCuIE3w&oe=62B8E0C1)
 
 ## Materials
 1. [Pot Player](https://daumpotplayer.com/download/)
